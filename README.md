@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/order-summary-component-H1js9vPBc](https://www.frontendmentor.io/solutions/order-summary-component-H1js9vPBc)
+- Live Site URL: [https://adansaavedra.github.io/Order-summary-component/](https://adansaavedra.github.io/Order-summary-component/)
 
 ## My process
 
